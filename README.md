@@ -40,7 +40,7 @@ Arquitetura do projeto.
 
 * driver (Armazena o chromeDriver na <versão> do browser local)
 * src
-  /test/java/br.com.nomedoprojeto
+  /test/java/br.com.aut_java_selenium
     * pages (Class com os mapeamento dos elementos por pagina)
     * steps (Class para rodar os testes)
     * util (Class que inicia o Browser)
